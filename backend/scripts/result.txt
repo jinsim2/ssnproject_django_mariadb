@@ -1,0 +1,3 @@
+testuser exists: True
+user.check_password("Testuser123!"): True
+user.is_active: True
